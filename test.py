@@ -1,4 +1,10 @@
-"""test"""
+"""
+test
+"""
+
+var = """
+test
+"""
 
 # Python rogram to find the SHA-1 message digest of a file
 
