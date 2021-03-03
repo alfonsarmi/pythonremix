@@ -37,7 +37,7 @@
 		[7]	"="	string
 		[8]	"lambda"	string
 		[9]	"+"	string
-		[10]	"+"	string
+		[10]	"+"	string 
 '''
 # Python rogram to find the SHA-1 message digest of a file
 
