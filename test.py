@@ -1,4 +1,4 @@
-'''
+"""
 -		Operands	Count = 78	System.Collections.Generic.List<string>
 		[0]	"import"	string
 		[1]	"hashlib"	string
@@ -38,7 +38,7 @@
 		[8]	"lambda"	string
 		[9]	"+"	string
 		[10]	"+"	string 
-'''
+"""
 # Python rogram to find the SHA-1 message digest of a file
 
 # importing the hashlib module
