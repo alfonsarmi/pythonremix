@@ -1,13 +1,4 @@
-"""
-test
-sadfsdf
-asdf
-asd
-fasd
-fasd
-fasdf
-asdf
-"""
+"""test"""
 
 # Python rogram to find the SHA-1 message digest of a file
 
